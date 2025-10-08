@@ -4,7 +4,7 @@
 
 - **MySQL Version**: 5.7
 - **SDM Version**: 0.6.4
-- **Operating System**: Windows 
+- **Operating System**: Windows 11
 - **Docker Version**: 28.4.0
 
 ## How SDM Works
